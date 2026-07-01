@@ -1,0 +1,6 @@
+{
+  "name": "Reckon IIF Converter",
+  "description": "An independent SaaS web application that converts CRM Invoice data into the Reckon Accounting IIF format with dynamic data sheets, real-time validation, automatic backup, and spreadsheet editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

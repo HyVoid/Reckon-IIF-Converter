@@ -1,0 +1,43 @@
+# Workflow to build and deploy this React SPA application to GitHub Pages.
+# This workflow is configured to safely handle environments without rigid lockfiles.
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          # We purposefully do NOT specify 'cache: npm' here to avoid build failures
+          # when the dependencies lock file (package-lock.json) is not yet generated/pushed.
+
+      - name: Install dependencies
+        run: |
+          npm install --no-audit --no-fund
+
+      - name: Build production application
+        run: |
+          npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          branch: gh-pages
+          clean: true
