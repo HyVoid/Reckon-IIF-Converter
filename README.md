@@ -8,7 +8,7 @@
 
 > ## **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser** → HTML interactive version
+> 🌐 **Open in Browser** → [HTML interactive version](https://hyvoid.github.io/Reckon-IIF-Converter/)
 > 📥 **Download Excel** → Excel workbook version
 >
 > Available in both browser-based HTML and Microsoft Excel formats.
