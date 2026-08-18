@@ -15,22 +15,6 @@
 
 ---
 
-## Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*Operational view showing CRM invoice ingestion, validation status, mapping exceptions, and generated Reckon import batches.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-*Operational workbook showing invoice transformation workflow from CRM export through validation and IIF generation.*
-
----
-
 ## What It Helps You Track
 
 * CRM invoice records that cannot be imported into Reckon before they create accounting errors.
