@@ -6,7 +6,9 @@
 
 **Convert CRM invoice exports into validated, import-ready Reckon Accounting invoice batches—without coding, without manual re-entry, and without needing to understand IIF file structures.**
 
-> ## **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [HTML interactive version](https://hyvoid.github.io/Reckon-IIF-Converter/)
 > 📥 **Download Excel** → Excel workbook version
