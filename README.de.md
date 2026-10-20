@@ -30,7 +30,7 @@ Testen Sie die Browser-Version kostenlos. Wenn Sie die Excel-Version benötigen,
 
 ---
 
-# Warum ich dies gebaut habe
+## Warum ich dies gebaut habe
 
 Die meisten Unternehmen gehen davon aus, dass ihr Problem darin besteht, "eine IIF-Datei zu erstellen".
 
