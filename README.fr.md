@@ -30,7 +30,7 @@ Essayez gratuitement la version navigateur. Si vous avez besoin de la version Ex
 
 ---
 
-# Pourquoi j'ai conçu ceci
+## Pourquoi j'ai conçu ceci
 
 La plupart des entreprises supposent que leur problème est de « créer un fichier IIF ».
 
