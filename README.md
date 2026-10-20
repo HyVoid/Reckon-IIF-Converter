@@ -29,7 +29,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 
 ---
 
-# Why I Built This
+## Why I Built This
 
 Most businesses assume their problem is "creating an IIF file."
 
