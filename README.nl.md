@@ -30,7 +30,7 @@ Probeer de browserversie gratis. Heb je de Excel-versie nodig, dan kun je die ko
 
 ---
 
-# Waarom ik dit heb gebouwd
+## Waarom ik dit heb gebouwd
 
 De meeste bedrijven nemen aan dat hun probleem is "een IIF-bestand maken".
 
