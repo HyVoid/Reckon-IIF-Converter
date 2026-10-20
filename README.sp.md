@@ -30,7 +30,7 @@ Pruebe la versión de navegador gratis. Si necesita la versión de Excel, puede 
 
 ---
 
-# Por qué construí esto
+## Por qué construí esto
 
 La mayoría de las empresas suponen que su problema es "crear un archivo IIF".
 
