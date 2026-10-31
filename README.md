@@ -486,11 +486,9 @@ Instead of manually rebuilding 350 invoices inside Reckon, finance personnel res
 
 ## Other Tools in This Series
 
-* **Inventory Planning & Replenishment Decision Engine** — demand forecasting and replenishment analysis.
-* **Shopify/Etsy VAT Compliance Dashboard** — marketplace tax calculation and filing support.
-* **Project Cost Allocation Control Center** — labor cost allocation and profitability analysis.
-* **Marketing Attribution Audit Framework** — advertising attribution validation and budget optimization.
-* **Multi-Entity Logistics Operations Console** — operational visibility across warehouse networks.
+* **[cars-702-705-flight-duty-time-tracker-excel](https://github.com/HyVoid/cars-702-705-flight-duty-time-tracker-excel)** — Which aviation compliance rule or operating constraint applies? — Interpret aviation compliance requirements into operational flight duty constraints.
+* **[shopify-etsy-vat-calculator](https://github.com/HyVoid/shopify-etsy-vat-calculator)** — Can this month's multi-country VAT filing be submitted with confidence? — Calculate and validate monthly multi-country VAT liabilities across Shopify and Etsy transaction data.
+* **[eu-ppwr-compliance-tracker](https://github.com/HyVoid/eu-ppwr-compliance-tracker)** — Can we prove our packaging is actually PPWR-compliant and ready for EU DoC sign-off, or are we just holding incomplete supplier paperwork? — Verify supplier packaging declarations against regulatory thresholds and mass-balance tolerances, separating automated screening from expert evidence review and gating final technical-file sign-off.
 
 More tools available via GitHub repository and distribution catalog.
 
